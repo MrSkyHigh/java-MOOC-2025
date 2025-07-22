@@ -11,6 +11,7 @@ For example, christmasTree(4) should print
   ***
 </pre>
 My Experience 
+
 I struggled to write a proper code for christmasTree() for more than 24 hours. Eventually, I decided to visualize the tree by drawing stars on the paper and counting spaces, stars and the variable i. 
 Suddenly, I could see a pattern. 
 
