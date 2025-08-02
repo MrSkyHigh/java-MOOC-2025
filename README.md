@@ -18,8 +18,6 @@ I base my code on the examples and practice tasks which are provided by the cour
 
 I write my code by myself. My comments about what a particular part of the code does are included inside each file for clarity. Task names are based on the original course, but the code is written by me, given my reflections on the material I've studied. 
 
-Simpler programs will be in 'basic/'
-
-More complex programs will be in 'harder/'
+All the course programs will be in 'basic/'
 
 My personal projects that I have thought of and developed code for will be in 'projects/'
