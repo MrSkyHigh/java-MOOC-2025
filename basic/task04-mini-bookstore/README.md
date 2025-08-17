@@ -3,7 +3,7 @@ There are 4 files containing various books for sale.
 Each file is written in the following format: name, wrtiter, publication year, pages, price.
 
 The program asks the user which genre of books they would like to see. 
-After the user enters the name of the needed file, the program reads the it. Then the books from the given file are added to an ArrayLists of Book objects. 
+After the user enters the name of the needed file, the program reads it. Then the books from the given file are added to an ArrayLists of Book objects. 
 Then the user is asked again to choose a book they'd like to buy.  
 Chosen books, their prices, and the total price are shown on the screen at the end. 
 
