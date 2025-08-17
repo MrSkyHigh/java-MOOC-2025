@@ -1,0 +1,6 @@
+0. Life and Fate,Vasily Grossman,1980,896,5
+1. Stalingrad,Vasily Grossman,1952,1088, 5
+2. All Quiet on the Western Front,Erich Maria Remarque,1929,250,2
+3. A Farewell to Arms,Ernest Hemingway,1929,355,1.99
+4. The Metamorphosis,Franz Kafka,1915,300,1.5
+

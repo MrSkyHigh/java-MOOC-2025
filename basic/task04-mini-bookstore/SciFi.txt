@@ -1,0 +1,8 @@
+0. The Invisible Man,Herbert Wells,1897,149,1
+1. The War of the Worlds,Herbert Wells,1898,319,1
+2. More Than Human,Theodore Sturgeon,1953,233,1.5
+3. Solaris,Stanislaw Lem,1961,204,2
+4. Dune,Frank Herbert,1965,412,3
+5. Foundation and Earth,Isaac Asimov,1986,356,4
+6. Foundation's Edge,Isaac Asimov,1982,367,4
+
